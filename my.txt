@@ -1,3 +1,0 @@
-this is my first git file
-seconed sentence is write
-third change
